@@ -7,7 +7,7 @@ This is an exchange rates project build in ReactJS using Exchange rates API.
 The project was created using the following technologies:
 - API
 - Frontend - ReactJS
-- Style - CSS
+- Style - Bootstrap
 
 ## Features
 - Exchange rates for ILS ✡️
